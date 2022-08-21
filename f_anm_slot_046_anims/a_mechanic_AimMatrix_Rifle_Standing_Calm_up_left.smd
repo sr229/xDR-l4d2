@@ -1,3 +1,4 @@
+// Created by Crowbar 0.72
 version 1
 nodes
   0 "ValveBiped.Bip01_Pelvis" -1
@@ -59,7 +60,7 @@ nodes
   56 "ValveBiped.weapon_bone" 16
 end
 skeleton
-time 0
+  time 0
     0 -1.174805 -0.001457 -0.220215 0.108444 0.827428 -1.416511
     1 -0.680176 -0.218262 -0.310303 0.158829 0.081557 -0.077358
     2 0.000000 0.000000 0.000000 0.150830 0.064550 -0.028855
